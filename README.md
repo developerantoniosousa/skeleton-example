@@ -3,7 +3,7 @@
 ### Installation
 
 ```
-$ https://github.com/developerantoniosousa/skeleton-example.git
+$ git clone https://github.com/developerantoniosousa/skeleton-example.git
 $ yarn // or npm i
 ```
 
